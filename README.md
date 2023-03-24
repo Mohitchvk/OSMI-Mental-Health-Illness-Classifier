@@ -5,8 +5,11 @@ Mental health is an important issue in the tech industry, as individuals working
 
 ### Problem Definition:
 The primary objective of this project is to predict the likelihood of a person being affected by mental health issues and to investigate the factors that contribute to mental health challenges in the IT sector. The project will employ data mining techniques such as Logistic Regression and Ensemble methods to analyze the data with a focus on identifying patterns and trends, the predictive analysis will aim to provide meaningful insights and additionally answer the following questions concerning mental health in the technology industry.
+
 • What factors are the most significant predictors of mental health issues in those working in the IT sector?
+
 • How are the probabilities of having a mental health illness vary for other demographic categories (e.g., gender, age, and race)?
+
 • What is the relationship between workplace attitudes regarding mental health and the chance of developing a mental health condition?
 
 ### Data Sources:
